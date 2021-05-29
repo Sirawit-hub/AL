@@ -1,0 +1,26 @@
+{
+  "id": "99b8f5c6-8a3a-46cb-8494-2928e6c38832",
+  "name": "ALSirawitK",
+  "publisher": "SirawitK",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50060,
+      "to": 50700
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ALSirawitK.com/help/",
+  "showMyCode": false,
+  "runtime": "7.0"
+}
